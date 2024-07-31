@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Hassan Elkholy
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python, HTML, CSS
+- 🌱 I’m currently learning python, HTML, CSS , JavaScript
 - 💞️ I’m looking to collaborate on a team where we can benefit each other
 - 📫 How to reach me +966563689025 or +201091441311
 
